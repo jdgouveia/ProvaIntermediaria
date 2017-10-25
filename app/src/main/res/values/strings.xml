@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProvaIntermediaria</string>
+    <string name="titulo1">Preencha o numero:</string>
+    <string name="enviar">Enviar</string>
+</resources>
